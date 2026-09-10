@@ -7,4 +7,6 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 .DS_Store
+mimic-iv-clinical-database-demo-2.2/
 .freebuff/
+MIMIC-IV, a freely accessible electronic health record dataset | Scientific Data.pdf
