@@ -10,3 +10,7 @@ __pycache__/
 mimic-iv-clinical-database-demo-2.2/
 .freebuff/
 MIMIC-IV, a freely accessible electronic health record dataset | Scientific Data.pdf
+
+# MIMIC-IV patient data — never commit
+data/*
+!data/.gitkeep
