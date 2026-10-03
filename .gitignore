@@ -14,3 +14,4 @@ MIMIC-IV, a freely accessible electronic health record dataset | Scientific Data
 # MIMIC-IV patient data — never commit
 data/*
 !data/.gitkeep
+MIMIC IV Data Documentation/
